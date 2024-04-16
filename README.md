@@ -4,7 +4,7 @@ Welcome to my repository! This collection showcases the programming projects I c
 ### Baby names
 
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1EREk00LTtlER3VqBbw1kDceA5bLc0Afo/view?usp=sharing)
-* **Code:** [LINK]
+* **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/tree/main/Babynames)
 * **Description:**
 This project is focused on analyzing and visualizing baby names data across various years. The program reads data from text files containing baby names ranked by popularity for each year and provides functionalities to add new data, search for names, and visualize the historical trends of selected names. 
 * **Skills:**
@@ -23,7 +23,7 @@ Implemented file handling for dictionary reading, validated user input, utilized
 ### Word Search - Anagram
 
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1dutHTsvSueqjCnCZzLJgej_FdrwrSrlq/view?usp=sharing)
-* **Code:** [LINK]()
+* **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Anagram/anagram.py)
 * **Description:**
 The Anagram project finds all anagrams for a user-input word using recursive permutation generation and dictionary validation.
 * **Skills:**
@@ -31,7 +31,7 @@ Implemented file handling to read an English dictionary, used recursion for perm
 
 ### Web Crawler
 
-* **Code:** [LINK]()
+* **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Web%20Crawler/webcrawler.py)
 * **Description:**
 This project fetches data from three URLs containing baby name statistics for the decades 2010s, 2000s, and 1990s from the Social Security Administration's website. The program currently prints cumulative rankings for male and female names.
 * **Skills:**
