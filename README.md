@@ -10,7 +10,7 @@ This project is focused on analyzing and visualizing baby names data across vari
 Implemented a dictionary-based data structure for baby names, handled file operations, developed data manipulation functions, implemented a search feature, collaborated on GUI development using tkinter, visualized data with line charts, and managed error handling.
 
 
-### * Word Search - boggle
+### Word Search - boggle
 
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1NqmXw-dwOFOjexf9Rz80wokwZ_Mkh8c1/view?usp=sharing)
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Boggle/boggle.py)
