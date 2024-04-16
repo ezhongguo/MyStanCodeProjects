@@ -19,3 +19,20 @@ Implemented a dictionary-based data structure for baby names, handled file opera
 The Boggle project is a program that finds words on a 4x4 grid of letters. Users input the grid, and the program searches for valid words based on a dictionary file.
 * **Skills:**
 Implemented file handling for dictionary reading, validated user input, utilized recursion for word finding, managed grid representation with dictionaries, manipulated strings for word construction, measured execution time, optimized search with prefix checking, and utilized sets to manage word storage.
+
+### Word Search - Anagram
+
+* **DEMO Video:** [LINK](https://drive.google.com/file/d/1dutHTsvSueqjCnCZzLJgej_FdrwrSrlq/view?usp=sharing)
+* **Code:** [LINK]()
+* **Description:**
+The Anagram project finds all anagrams for a user-input word using recursive permutation generation and dictionary validation.
+* **Skills:**
+Implemented file handling to read an English dictionary, used recursion for permutation generation to find anagrams, managed data with lists and pairs, measured execution time, and optimized permutation generation with prefix checking.
+
+### Web Crawler
+
+* **Code:** [LINK]()
+* **Description:**
+This project fetches data from three URLs containing baby name statistics for the decades 2010s, 2000s, and 1990s from the Social Security Administration's website. The program currently prints cumulative rankings for male and female names.
+* **Skills:**
+Web Scraping: Used requests to fetch HTML, BeautifulSoup for parsing, extracted data from tables, manipulated text, iterated through tables, and performed counting and aggregation. Printed results to the console.
