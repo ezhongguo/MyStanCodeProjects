@@ -1,4 +1,5 @@
 ## MyStanCodeProjects
+Welcome to my repository! This collection showcases the programming projects I completed during the stanCode SC101 course.
 
 ### Baby names
 
