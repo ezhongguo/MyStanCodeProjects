@@ -1,6 +1,6 @@
 ## MyStanCodeProjects
 
-### Baby names
+### * Baby names
 
 **DEMO Video:** [LINK](https://drive.google.com/file/d/1EREk00LTtlER3VqBbw1kDceA5bLc0Afo/view?usp=sharing)
 
@@ -13,11 +13,11 @@ This project is focused on analyzing and visualizing baby names data across vari
 Implemented a dictionary-based data structure for baby names, handled file operations, developed data manipulation functions, implemented a search feature, collaborated on GUI development using tkinter, visualized data with line charts, and managed error handling.
 
 
-### Word Search - boggle
+### * Word Search - boggle
 
 **DEMO Video:** [LINK](https://drive.google.com/file/d/1NqmXw-dwOFOjexf9Rz80wokwZ_Mkh8c1/view?usp=sharing)
 
-**Code:** [LINK]
+**Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Boggle/boggle.py)
 
 **Description:**
 The Boggle project is a program that finds words on a 4x4 grid of letters. Users input the grid, and the program searches for valid words based on a dictionary file.
